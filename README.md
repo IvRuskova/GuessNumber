@@ -1,2 +1,14 @@
 # GuessNumber
-###This is the console game "Guess A Number". "Guess A Number" is a game, in which your opponent "the computer" chooses a random number between 1 and 100 and your task is to guess this number. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number.
+## This is the console game "**Guess A Number**". 
+
+
+
+
+
+![guessANumber](https://user-images.githubusercontent.com/25942248/214158227-13c809f0-9aa0-44c2-9f5b-c03a12344684.png)
+
+
+
+
+
+### "Guess A Number" is a game, in which your opponent "the computer" chooses a random number between 1 and 100 and your task is to guess this number. After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected until you guess the correct number.
